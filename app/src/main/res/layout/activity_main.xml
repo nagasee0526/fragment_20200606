@@ -23,16 +23,23 @@
                 class="com.ubis.fragment_20200606.flagments.FirstFlagment"/>
 
             <fragment
-                android:tag="세번째 플래그먼트"
+                android:tag="두번째 플래그먼트"
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 class="com.ubis.fragment_20200606.flagments.SecondFlagment"/>
 
             <fragment
-                android:tag="두번째 플래그먼트"
+                android:tag="같은 플래그먼트"
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 class="com.ubis.fragment_20200606.flagments.FirstFlagment"/>
+
+            <fragment
+                android:tag="세번째 플래그먼트"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                class="com.ubis.fragment_20200606.flagments.ThirdFragment"/>
+
         </LinearLayout>
     </ScrollView>
 

@@ -10,15 +10,13 @@ class MainActivity : baseActivity() {
         setContentView(R.layout.activity_main)
 
         setValues()
-        SetEvents()
+        setEvents()
     }
 
     override fun setValues() {
-        TODO("Not yet implemented")
     }
 
-    override fun SetEvents() {
-        TODO("Not yet implemented")
+    override fun setEvents() {
     }
 
 
